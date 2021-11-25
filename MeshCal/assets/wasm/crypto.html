@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<script>
+  var Module = {
+    onRuntimeInitialized: function () {
+      var value = window.location.search.substring(window.location.search.indexOf('share=') + 6);
+      var share = decodeURI(value)
+      // console.log("ready ", decodeURI(share));
+      
+      Module.cryptoInit();
+      var publickey0 = "XDJWZFcUL/p2zeDNgAgyujK+Q841hXHCn0UzpiOhPzY="
+      var encryptStr = Module.cryptoEncrypt(share, publickey0);
+      localStorage.setItem("inputStr", encryptStr);
+    }
+  };
+
+</script>
+<script src="crypto.js"></script>
+
+</html>
