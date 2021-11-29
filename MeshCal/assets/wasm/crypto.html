@@ -3,6 +3,7 @@
 <script>
   var Module = {
     onRuntimeInitialized: function () {
+      localStorage.setItem("inputStr", '');
       var value = window.location.search.substring(window.location.search.indexOf('share='));
       var params = decodeURI(value).split('&');
       var share = params[0].split('=')[1];
