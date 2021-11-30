@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<script>
+  var Module = {
+    onRuntimeInitialized: function () {
+      var value = window.location.search.substring(window.location.search.indexOf('share='));
+      var params = decodeURI(value).split('&');
+      var share = params[0].split('=')[1];
+      var index = params[1].split('=')[1];
+      
+      var publicKey = '';
+      if( index == '0'){
+        publicKey = "XDJWZFcUL/p2zeDNgAgyujK+Q841hXHCn0UzpiOhPzY="
+      }else{
+        publicKey = "irTkoRKF4ElDRljf9trI0r8YJa6iPKDdlMV1sqLpHlY="
+      }
+      
+      Module.cryptoInit();
+      var encryptStr = Module.cryptoEncrypt(share, publicKey);
+      localStorage.setItem("inputStr", encryptStr);
+    }
+  };
+
+</script>
+<script src="crypto.js"></script>
+
+</html>
