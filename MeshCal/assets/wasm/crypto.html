@@ -18,11 +18,14 @@
       
       Module.cryptoInit();
       var encryptStr = Module.cryptoEncrypt(share, publicKey);
+
+      const iframe = document.getElementById('client_wasm');
+      iframe.value = encryptStr
       localStorage.setItem("inputStr", encryptStr);
     }
   };
 
 </script>
-<script src="crypto.js"></script>
+<script src="crypto.js" async></script>
 
 </html>
