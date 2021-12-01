@@ -17,7 +17,8 @@
       
       Module.cryptoInit();
       var encryptStr = Module.cryptoEncrypt(share, publicKey);
-      localStorage.setItem("inputStr", encryptStr);
+      console.log('encryptStr:', encryptStr);
+      localStorage.setItem("inputStr", index + '_' + encryptStr);
     }
   };
 
