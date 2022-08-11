@@ -1,10 +1,10 @@
 {
   "configVersion": 1,
-  "timestamp": 1660227023188,
+  "timestamp": 1660233992133,
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "MeshCal",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.6fb904b9d6e3b99d8af3.js",
+        "/main.5021823ccfcb856be681.js",
         "/manifest.json",
         "/polyfills-es5.38a9cf9f3388747859a0.js",
         "/polyfills.8c3a392980e4a0a33090.js",
@@ -190,8 +190,8 @@
     "/assets/wasm/crypto.js": "430548f5ba1385dbf5796123a86544cc6aed0256",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "168fbb498bc809197572b493833f1fb140fc8535",
-    "/index.html": "d3ee9f174a581ded22be4ad86d904e63d1cd72d1",
-    "/main.6fb904b9d6e3b99d8af3.js": "7591935c08604d78de9f1decea19b14a72c2755e",
+    "/index.html": "5653caaeb86bdb755a29c2167cc2e373bd862f4b",
+    "/main.5021823ccfcb856be681.js": "53ee05de65ef6db7f5a01550826533bf3c5da352",
     "/manifest.json": "d867d2d608541f792b1a1b7e9c0ca32fd0ac7126",
     "/polyfills-es5.38a9cf9f3388747859a0.js": "86d7b1dbb01075f0a9ad6b9532172d6950c10271",
     "/polyfills.8c3a392980e4a0a33090.js": "b3a50979bd9ac83b8d75217d1568e68fb2d4a3ad",
