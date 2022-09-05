@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1661769332556,
+  "timestamp": 1662379264591,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,27 +13,13 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.20a4df44aebd1e5c70a1.js",
-        "/main.31f9f0ce70653a45a314.js",
-        "/main.3f32d8bdd99a693d3bb3.js",
-        "/main.414fe08eaa21e01b240d.js",
-        "/main.44f176c4298d9bc3be85.js",
-        "/main.49a8d3f131cb06a3c0c5.js",
-        "/main.522073cfee14fa8e6b36.js",
-        "/main.5d698e78613d08fc2ecb.js",
-        "/main.5f24b3d8ce21888a2c67.js",
-        "/main.861f3735f7ea866e5f46.js",
-        "/main.b69fb1c2feb224e542b4.js",
-        "/main.c5f8ffb8b500f22f28c4.js",
+        "/main.065a7b25b6cfda512bcf.js",
         "/manifest.json",
-        "/ngsw-worker.js",
         "/polyfills-es5.38a9cf9f3388747859a0.js",
         "/polyfills.8c3a392980e4a0a33090.js",
         "/runtime.7b63b9fd40098a2e8207.js",
-        "/safety-worker.js",
         "/scripts.a189cb915d6feb24617a.js",
-        "/styles.60f895de0408e2865708.css",
-        "/worker-basic.min.js"
+        "/styles.60f895de0408e2865708.css"
       ],
       "patterns": []
     },
@@ -204,28 +190,14 @@
     "/assets/wasm/crypto.js": "430548f5ba1385dbf5796123a86544cc6aed0256",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "168fbb498bc809197572b493833f1fb140fc8535",
-    "/index.html": "62c0eec77a4c0bb912bd5122199e2abafcd40379",
-    "/main.20a4df44aebd1e5c70a1.js": "a724c7141eb5e6cdb6c3191ffdf0613f49c976cd",
-    "/main.31f9f0ce70653a45a314.js": "a724c7141eb5e6cdb6c3191ffdf0613f49c976cd",
-    "/main.3f32d8bdd99a693d3bb3.js": "40776c075944dc9a578387bdca83b0c1f1f5bc70",
-    "/main.414fe08eaa21e01b240d.js": "cafd540ea3fb15bfd53acf7f56ff321c57fcb635",
-    "/main.44f176c4298d9bc3be85.js": "8f1fab09b094003b43c454d5023972ba26a9ae6c",
-    "/main.49a8d3f131cb06a3c0c5.js": "ef3e7ab19415caaaf11e5bf53aed08e01a7140be",
-    "/main.522073cfee14fa8e6b36.js": "d90737feb787865d900c57fbc28171d8dff870c4",
-    "/main.5d698e78613d08fc2ecb.js": "76f68654509aca8a6b0d534348c74077a61c1358",
-    "/main.5f24b3d8ce21888a2c67.js": "ab19e5b73a68864c787dcdf5b5ece5a9d39a2dd6",
-    "/main.861f3735f7ea866e5f46.js": "7a6bfd02c2332e2954756fc79853dd65fab74c7c",
-    "/main.b69fb1c2feb224e542b4.js": "6ae160717b6f4e7046b0014d005e6e2157e07131",
-    "/main.c5f8ffb8b500f22f28c4.js": "cfdbd20bf8247bd7fe7371a5638a76215935a950",
+    "/index.html": "26f118c3a211db523975fcd147fb3f482290d208",
+    "/main.065a7b25b6cfda512bcf.js": "02d0760eaf92028f5aee1d14a7de4e60916ba73d",
     "/manifest.json": "d867d2d608541f792b1a1b7e9c0ca32fd0ac7126",
-    "/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
     "/polyfills-es5.38a9cf9f3388747859a0.js": "86d7b1dbb01075f0a9ad6b9532172d6950c10271",
     "/polyfills.8c3a392980e4a0a33090.js": "b3a50979bd9ac83b8d75217d1568e68fb2d4a3ad",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
     "/scripts.a189cb915d6feb24617a.js": "ba59fa48e275a116eca38f5c11e6525f3b096b95",
-    "/styles.60f895de0408e2865708.css": "cfeb0172b454138b6f46287334d0514e3c8d32b4",
-    "/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+    "/styles.60f895de0408e2865708.css": "cfeb0172b454138b6f46287334d0514e3c8d32b4"
   },
   "navigationUrls": [
     {
