@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1663235543098,
+  "timestamp": 1663581004277,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b543233b68af88de5d72.js",
+        "/main.45a6968d1af740ee6708.js",
         "/manifest.json",
         "/polyfills-es5.38a9cf9f3388747859a0.js",
         "/polyfills.8c3a392980e4a0a33090.js",
@@ -104,6 +104,7 @@
         "/assets/images/site-thumbnail.jpg",
         "/assets/images/user_icon.png",
         "/assets/videos/LandingpageVideo.mp4",
+        "/assets/videos/login_video.mp4",
         "/assets/wasm/crypto.html",
         "/assets/wasm/crypto.js",
         "/assets/wasm/crypto.wasm"
@@ -186,12 +187,13 @@
     "/assets/images/site-thumbnail.jpg": "4ca9015fee79db2920758e9ff8ceceb2dfb976ce",
     "/assets/images/user_icon.png": "c4b7584333fb7d1d8df1da804b96f67d604a7a93",
     "/assets/videos/LandingpageVideo.mp4": "e3212300c6429c34188893d6f16e8301b8ae9f6d",
+    "/assets/videos/login_video.mp4": "b9ddd5941fd84afe69391452506e9f8c40b1ddf9",
     "/assets/wasm/crypto.html": "78d525f3c10389b906c2705a89c9b6ac56d6c4b1",
     "/assets/wasm/crypto.js": "430548f5ba1385dbf5796123a86544cc6aed0256",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "168fbb498bc809197572b493833f1fb140fc8535",
-    "/index.html": "a867a265b2082512db80901e96ba4101b89ad736",
-    "/main.b543233b68af88de5d72.js": "6a5fb7fc6e9797aa28a3ce31ab0dbada49a6ec58",
+    "/index.html": "79a9f605e208348b523364538f2e5bc0980a81d5",
+    "/main.45a6968d1af740ee6708.js": "eae5db4574837378a119044c18a6181a93b46bbc",
     "/manifest.json": "d867d2d608541f792b1a1b7e9c0ca32fd0ac7126",
     "/polyfills-es5.38a9cf9f3388747859a0.js": "86d7b1dbb01075f0a9ad6b9532172d6950c10271",
     "/polyfills.8c3a392980e4a0a33090.js": "b3a50979bd9ac83b8d75217d1568e68fb2d4a3ad",
