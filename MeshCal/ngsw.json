@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1665175769259,
+  "timestamp": 1665176157337,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.83e51ae2a28351169f02.js",
+        "/main.f05aeab91aa9d96666fc.js",
         "/manifest.json",
         "/polyfills-es5.38a9cf9f3388747859a0.js",
         "/polyfills.8c3a392980e4a0a33090.js",
@@ -26,7 +26,7 @@
     {
       "name": "assets",
       "installMode": "lazy",
-      "updateMode": "lazy",
+      "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -192,8 +192,8 @@
     "/assets/wasm/crypto.js": "430548f5ba1385dbf5796123a86544cc6aed0256",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "168fbb498bc809197572b493833f1fb140fc8535",
-    "/index.html": "4b948e5641681cc5875a3f86571c7e2cededaa88",
-    "/main.83e51ae2a28351169f02.js": "2c900755211c0838e75ef11d8f44c443d37da504",
+    "/index.html": "ede54e837f85eaa01296ca2c5f45853a385a6732",
+    "/main.f05aeab91aa9d96666fc.js": "0492689413825a2da7d2e1c957c29fc02e118628",
     "/manifest.json": "d867d2d608541f792b1a1b7e9c0ca32fd0ac7126",
     "/polyfills-es5.38a9cf9f3388747859a0.js": "86d7b1dbb01075f0a9ad6b9532172d6950c10271",
     "/polyfills.8c3a392980e4a0a33090.js": "b3a50979bd9ac83b8d75217d1568e68fb2d4a3ad",
