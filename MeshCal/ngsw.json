@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666347352074,
+  "timestamp": 1666599350430,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,22 +13,13 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.001ed681fa44ae7a89c7.js",
-        "/main.0f3ee1d63297070b43a9.js",
-        "/main.4d4b9ae7dd4d19022290.js",
-        "/main.5b8b3b8b0f82f29563c5.js",
-        "/main.b2f7f1809a0d18312baf.js",
-        "/main.c50d6e4aebc090c575f9.js",
-        "/main.da1f1afcd8680314ccf3.js",
+        "/main.97413e19c35733bce4dc.js",
         "/manifest.json",
-        "/ngsw-worker.js",
         "/polyfills-es5.38a9cf9f3388747859a0.js",
         "/polyfills.8c3a392980e4a0a33090.js",
         "/runtime.7b63b9fd40098a2e8207.js",
-        "/safety-worker.js",
         "/scripts.a189cb915d6feb24617a.js",
-        "/styles.5cb90726f14394e1b84f.css",
-        "/worker-basic.min.js"
+        "/styles.5cb90726f14394e1b84f.css"
       ],
       "patterns": []
     },
@@ -201,23 +192,14 @@
     "/assets/wasm/crypto.js": "430548f5ba1385dbf5796123a86544cc6aed0256",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "168fbb498bc809197572b493833f1fb140fc8535",
-    "/index.html": "dafb6ce8bac0f493e03b716c6fc30ef06c86557f",
-    "/main.001ed681fa44ae7a89c7.js": "a23c33f4df6b206cbc1fe8353bd621f43d2bc31a",
-    "/main.0f3ee1d63297070b43a9.js": "3d665ac6af4076ce298136d92ec66e3a6a466aea",
-    "/main.4d4b9ae7dd4d19022290.js": "737235d7421d4f16b7875fa16062d6b990051cb2",
-    "/main.5b8b3b8b0f82f29563c5.js": "2f17c6e335386e9874f7cc3496dbc2bb1ffff6fe",
-    "/main.b2f7f1809a0d18312baf.js": "5d4245d9e4198100594f5cc9f0bcb73ed3dfa85a",
-    "/main.c50d6e4aebc090c575f9.js": "28a38dbabf00f5a3adcd1fa5c1f45fba5418f7e2",
-    "/main.da1f1afcd8680314ccf3.js": "11b779d076128e0fbe4f32d6e22356505f24465a",
+    "/index.html": "7446cc57dc454aa2372b07f0e1cdd55e94c8166a",
+    "/main.97413e19c35733bce4dc.js": "33212af37e8385ac8b1128dbfd4d76ea0ee2dc33",
     "/manifest.json": "d867d2d608541f792b1a1b7e9c0ca32fd0ac7126",
-    "/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
     "/polyfills-es5.38a9cf9f3388747859a0.js": "86d7b1dbb01075f0a9ad6b9532172d6950c10271",
     "/polyfills.8c3a392980e4a0a33090.js": "b3a50979bd9ac83b8d75217d1568e68fb2d4a3ad",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
     "/scripts.a189cb915d6feb24617a.js": "ba59fa48e275a116eca38f5c11e6525f3b096b95",
-    "/styles.5cb90726f14394e1b84f.css": "3b946dcb4970fb163ed9586e81bd19507c0396a5",
-    "/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+    "/styles.5cb90726f14394e1b84f.css": "3b946dcb4970fb163ed9586e81bd19507c0396a5"
   },
   "navigationUrls": [
     {
