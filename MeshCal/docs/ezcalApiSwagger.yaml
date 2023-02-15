@@ -1,0 +1,11 @@
+
+
+responses:
+  401:
+    description: Unauthorized
+    schema:
+      $ref: '#/definitions/ErrorMessage'
+  404:
+    description: Not Found
+    schema:
+      $ref: '#/definitions/ErrorMessage'

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1676282545814,
+  "timestamp": 1676490959116,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -103,6 +103,7 @@
         "/assets/images/no-profile-photo.png",
         "/assets/images/site-thumbnail.jpg",
         "/assets/images/user_icon.png",
+        "/assets/logo.png",
         "/assets/videos/LandingpageVideo.mp4",
         "/assets/videos/login_video.mp4",
         "/assets/wasm/crypto.html",
@@ -186,6 +187,7 @@
     "/assets/images/no-profile-photo.png": "683a4b64e1f2a2192e9b8a4b6172b6bd07f2cff5",
     "/assets/images/site-thumbnail.jpg": "4ca9015fee79db2920758e9ff8ceceb2dfb976ce",
     "/assets/images/user_icon.png": "c4b7584333fb7d1d8df1da804b96f67d604a7a93",
+    "/assets/logo.png": "40eb9345b9722accb1048417e98c57f8870eeb0e",
     "/assets/videos/LandingpageVideo.mp4": "e3212300c6429c34188893d6f16e8301b8ae9f6d",
     "/assets/videos/login_video.mp4": "b9ddd5941fd84afe69391452506e9f8c40b1ddf9",
     "/assets/wasm/crypto.html": "78d525f3c10389b906c2705a89c9b6ac56d6c4b1",
