@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1676562195529,
+  "timestamp": 1676626617320,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,6 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
+        "/main.0340d7cec45697c28595.js",
         "/main.5b7d50bc75675a60b64c.js",
         "/main.6d0e9a31ef0beda77057.js",
         "/main.788b8bbf01f5770009d5.js",
@@ -201,7 +202,8 @@
     "/assets/wasm/crypto.js": "430548f5ba1385dbf5796123a86544cc6aed0256",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "168fbb498bc809197572b493833f1fb140fc8535",
-    "/index.html": "2c4dabf602b8b3056336699f00367f63f82ffeb0",
+    "/index.html": "2cc34485c8875c37d41f49e1c4a947fcd3fb2081",
+    "/main.0340d7cec45697c28595.js": "6b084a37ab4be851277481e9fd7d61a51d8fd383",
     "/main.5b7d50bc75675a60b64c.js": "8b8376d77c9b312d9dac3488f95d1bfba981fa07",
     "/main.6d0e9a31ef0beda77057.js": "742b14dd359ef93eaead2c641e20dc8e0418fc99",
     "/main.788b8bbf01f5770009d5.js": "6c93465cb5e59b56bf2458233da78cacfc125513",
