@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677832857174,
+  "timestamp": 1677833697988,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -191,7 +191,7 @@
     "/assets/images/site-thumbnail.jpg": "4ca9015fee79db2920758e9ff8ceceb2dfb976ce",
     "/assets/images/user_icon.png": "c4b7584333fb7d1d8df1da804b96f67d604a7a93",
     "/assets/logo.png": "65ba7c396272c853a045d5a735748aa5f7a790d6",
-    "/assets/logo1.png": "e50c8a67c236a70f65b3b4a08b43cf182084632c",
+    "/assets/logo1.png": "4c3f47d87d04d775a3987a2f91ade370333cdbcd",
     "/assets/videos/LandingpageVideo.mp4": "e3212300c6429c34188893d6f16e8301b8ae9f6d",
     "/assets/videos/login_video.mp4": "b9ddd5941fd84afe69391452506e9f8c40b1ddf9",
     "/assets/wasm/crypto.html": "ecaf5bad4c6ca47ab4c949838a64590d741c7dd1",
