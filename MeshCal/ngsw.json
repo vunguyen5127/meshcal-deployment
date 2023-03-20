@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1679318475335,
+  "timestamp": 1679327117230,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.df992587160927ef323a.js",
+        "/main.8017d62ad4e628d6c3c6.js",
         "/manifest.json",
         "/polyfills-es5.38a9cf9f3388747859a0.js",
         "/polyfills.8c3a392980e4a0a33090.js",
@@ -198,8 +198,8 @@
     "/assets/wasm/crypto.js": "8560677192a4b130873941cf8030597e15cf0436",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "2056ee12e711269aebf5f803b215f47916d7b37f",
-    "/index.html": "09326f026382a02fee76f1fe5ef65acf995059ad",
-    "/main.df992587160927ef323a.js": "72c2d42f234d38d7fc99e5998f821e5af9d795f4",
+    "/index.html": "fb846fe423b57c9be7a0d3576e0eb03a9ea40981",
+    "/main.8017d62ad4e628d6c3c6.js": "1397d41d240bb26f2d79dd8b16ec89bdab0392a3",
     "/manifest.json": "d867d2d608541f792b1a1b7e9c0ca32fd0ac7126",
     "/polyfills-es5.38a9cf9f3388747859a0.js": "86d7b1dbb01075f0a9ad6b9532172d6950c10271",
     "/polyfills.8c3a392980e4a0a33090.js": "b3a50979bd9ac83b8d75217d1568e68fb2d4a3ad",
