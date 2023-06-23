@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1687447189911,
+  "timestamp": 1687505756520,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.7cceddd3116819c0d512.js",
+        "/main.d84bdaa35b8608895b7c.js",
         "/manifest.json",
         "/polyfills-es5.f8a488b2fdea97c0f95d.js",
         "/polyfills.2bcd508ca8f3afb00f2c.js",
@@ -196,12 +196,12 @@
     "/assets/meshcalEmail.png": "e9c6f87673907230f5128a219a4a9bb5e32e1978",
     "/assets/videos/LandingpageVideo.mp4": "e3212300c6429c34188893d6f16e8301b8ae9f6d",
     "/assets/videos/login_video.mp4": "b9ddd5941fd84afe69391452506e9f8c40b1ddf9",
-    "/assets/wasm/crypto.html": "ecaf5bad4c6ca47ab4c949838a64590d741c7dd1",
+    "/assets/wasm/crypto.html": "e90ee829ff67dd5bf881799bba9b121c05290e18",
     "/assets/wasm/crypto.js": "8560677192a4b130873941cf8030597e15cf0436",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "2056ee12e711269aebf5f803b215f47916d7b37f",
-    "/index.html": "ad9d5d1f1a1ebed8090146799105a7d6058ace65",
-    "/main.7cceddd3116819c0d512.js": "ad587f14d71c4406da3faae41e17e0bad649dbf8",
+    "/index.html": "48941c1cabab45e55341465e724194308997c039",
+    "/main.d84bdaa35b8608895b7c.js": "3ad2cbf892b83eaedbc18fb1c94a074301e54922",
     "/manifest.json": "53722b6c0572dbb25fb94e69f80555e76c0095e5",
     "/polyfills-es5.f8a488b2fdea97c0f95d.js": "6e137ed74b617498f5be20c78e373c05e0fa585f",
     "/polyfills.2bcd508ca8f3afb00f2c.js": "35ee1187af896ad011a82332996b9e6060e9b589",

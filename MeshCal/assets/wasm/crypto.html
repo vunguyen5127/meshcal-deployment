@@ -5,7 +5,6 @@
     onRuntimeInitialized: function () {
       var value = window.location.search.substring(window.location.search.indexOf('share=') + 6);
       var clientShares = JSON.parse(decodeURI(value));
-      // console.log('clientShares ', clientShares);
       var result = [];
       var encryptStr = "";
       
