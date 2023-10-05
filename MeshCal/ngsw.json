@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1695729179141,
+  "timestamp": 1696522264863,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,13 +13,13 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.bab8afae0f81ca01e7c2.js",
+        "/main.bca4bf2e1f0383df2078.js",
         "/manifest.json",
         "/polyfills-es5.f8a488b2fdea97c0f95d.js",
         "/polyfills.2bcd508ca8f3afb00f2c.js",
         "/runtime.7b63b9fd40098a2e8207.js",
         "/scripts.a189cb915d6feb24617a.js",
-        "/styles.219f1402563261cfb905.css"
+        "/styles.a8b14992a5ef6529f2ab.css"
       ],
       "patterns": []
     },
@@ -79,6 +79,7 @@
         "/assets/fonts/Poppins-ThinItalic.ttf",
         "/assets/fonts/README.txt",
         "/assets/icons/calendar.svg",
+        "/assets/icons/edit-calendar.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -166,6 +167,7 @@
     "/assets/fonts/Poppins-ThinItalic.ttf": "0ae5e70e426adb3104852afb7a83a89bf3699260",
     "/assets/fonts/README.txt": "d861952b21ff0afa222515b74297afb46a6e6029",
     "/assets/icons/calendar.svg": "bc31b902c51e5ba696659342ff5d14b0f3f719a6",
+    "/assets/icons/edit-calendar.png": "7f3098c0258dec24b1b2e143e14ab3f1cf3cd48d",
     "/assets/icons/icon-128x128.png": "b643892452a30a489b7a8a931c24389d4b657454",
     "/assets/icons/icon-144x144.png": "bee3047d273e6179560cfa3c40ea82c4479873a5",
     "/assets/icons/icon-152x152.png": "4af0f353a963a2eebe4746a05be4e44f1287f574",
@@ -200,14 +202,14 @@
     "/assets/wasm/crypto.js": "8560677192a4b130873941cf8030597e15cf0436",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "2056ee12e711269aebf5f803b215f47916d7b37f",
-    "/index.html": "33a62a0d60b8c97a3b2cc53fa3b42178c677ab8d",
-    "/main.bab8afae0f81ca01e7c2.js": "66360497c330f6d1d1d3f2b11c2df0a9f83dc5ee",
+    "/index.html": "916137cdb0c86802be3dc0a662e5971ace19e056",
+    "/main.bca4bf2e1f0383df2078.js": "43388315f94346fa1ed030af4929e31b63575c99",
     "/manifest.json": "53722b6c0572dbb25fb94e69f80555e76c0095e5",
     "/polyfills-es5.f8a488b2fdea97c0f95d.js": "6e137ed74b617498f5be20c78e373c05e0fa585f",
     "/polyfills.2bcd508ca8f3afb00f2c.js": "35ee1187af896ad011a82332996b9e6060e9b589",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.a189cb915d6feb24617a.js": "ba59fa48e275a116eca38f5c11e6525f3b096b95",
-    "/styles.219f1402563261cfb905.css": "f51d307072f3f8a2913b409908578ce0011d80bd"
+    "/styles.a8b14992a5ef6529f2ab.css": "c1df52a2b87eb3cf621ffa7c9cba6eccdf36d750"
   },
   "navigationUrls": [
     {
