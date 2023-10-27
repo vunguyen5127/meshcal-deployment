@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698379024727,
+  "timestamp": 1698379796411,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c66bb120037176476b75.js",
+        "/main.cd7a2e304add00e951e3.js",
         "/manifest.json",
         "/polyfills-es5.f8a488b2fdea97c0f95d.js",
         "/polyfills.2bcd508ca8f3afb00f2c.js",
@@ -208,8 +208,8 @@
     "/assets/wasm/crypto.js": "8560677192a4b130873941cf8030597e15cf0436",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "2056ee12e711269aebf5f803b215f47916d7b37f",
-    "/index.html": "597371e5eefb8b44d3c9aef9f07676225e6c9795",
-    "/main.c66bb120037176476b75.js": "2e2e66c46159fb7edada7c2dda6896dccfc55c5d",
+    "/index.html": "89bb1c308bc6a653b21a5593a436149a8bc53a7f",
+    "/main.cd7a2e304add00e951e3.js": "e5d23e3c80a052475995be659b7b69bb8a72a2fd",
     "/manifest.json": "53722b6c0572dbb25fb94e69f80555e76c0095e5",
     "/meshcal-accent.7b392ba10f61beab7925.png": "e6c2db01374d4cc11ad84c912387ae8e80aba4f1",
     "/meshcal-accent.ee9fd73d4e5b42b68b5b.svg": "4dbdec87a38536bf4d21b8b6f54bd8cc0ee1b36a",
