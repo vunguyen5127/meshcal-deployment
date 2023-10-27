@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697188225167,
+  "timestamp": 1698378104712,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,13 +13,13 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a8b3e543ed9d9a46eb03.js",
+        "/main.6ecf8c66a5a9f13c45e4.js",
         "/manifest.json",
         "/polyfills-es5.f8a488b2fdea97c0f95d.js",
         "/polyfills.2bcd508ca8f3afb00f2c.js",
         "/runtime.7b63b9fd40098a2e8207.js",
         "/scripts.a189cb915d6feb24617a.js",
-        "/styles.a8b14992a5ef6529f2ab.css"
+        "/styles.73fe2ccd13de3f1d4566.css"
       ],
       "patterns": []
     },
@@ -101,6 +101,8 @@
         "/assets/images/Single_375.svg",
         "/assets/images/available.jpg",
         "/assets/images/bak_Click_1440.svg",
+        "/assets/images/meshcal-accent.png",
+        "/assets/images/meshcal-accent.svg",
         "/assets/images/no-profile-photo.png",
         "/assets/images/single_768.svg",
         "/assets/images/site-thumbnail.jpg",
@@ -112,7 +114,9 @@
         "/assets/videos/login_video.mp4",
         "/assets/wasm/crypto.html",
         "/assets/wasm/crypto.js",
-        "/assets/wasm/crypto.wasm"
+        "/assets/wasm/crypto.wasm",
+        "/meshcal-accent.7b392ba10f61beab7925.png",
+        "/meshcal-accent.ee9fd73d4e5b42b68b5b.svg"
       ],
       "patterns": []
     }
@@ -189,6 +193,8 @@
     "/assets/images/Single_375.svg": "90bdfea2763fff2646c4172d5693d360cd5b4172",
     "/assets/images/available.jpg": "4b31daf75969aa693e5bcd00221e3b1b4fc59c6d",
     "/assets/images/bak_Click_1440.svg": "34d50708df9f2753841947f123a308356d01348c",
+    "/assets/images/meshcal-accent.png": "e6c2db01374d4cc11ad84c912387ae8e80aba4f1",
+    "/assets/images/meshcal-accent.svg": "4dbdec87a38536bf4d21b8b6f54bd8cc0ee1b36a",
     "/assets/images/no-profile-photo.png": "683a4b64e1f2a2192e9b8a4b6172b6bd07f2cff5",
     "/assets/images/single_768.svg": "c0205716b80b62118690256686470eecef802bc1",
     "/assets/images/site-thumbnail.jpg": "4ca9015fee79db2920758e9ff8ceceb2dfb976ce",
@@ -202,14 +208,16 @@
     "/assets/wasm/crypto.js": "8560677192a4b130873941cf8030597e15cf0436",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "2056ee12e711269aebf5f803b215f47916d7b37f",
-    "/index.html": "16d94c186224826ca19b229450a074e8a7ad0ca9",
-    "/main.a8b3e543ed9d9a46eb03.js": "20fd302a3f82b4b744a64483cb99b820608c4a56",
+    "/index.html": "fafb74522d171c477680d0e2413908bc4b0558ae",
+    "/main.6ecf8c66a5a9f13c45e4.js": "2ea9e602a7ca7b2f6ca43a46ccef0fa374231fff",
     "/manifest.json": "53722b6c0572dbb25fb94e69f80555e76c0095e5",
+    "/meshcal-accent.7b392ba10f61beab7925.png": "e6c2db01374d4cc11ad84c912387ae8e80aba4f1",
+    "/meshcal-accent.ee9fd73d4e5b42b68b5b.svg": "4dbdec87a38536bf4d21b8b6f54bd8cc0ee1b36a",
     "/polyfills-es5.f8a488b2fdea97c0f95d.js": "6e137ed74b617498f5be20c78e373c05e0fa585f",
     "/polyfills.2bcd508ca8f3afb00f2c.js": "35ee1187af896ad011a82332996b9e6060e9b589",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.a189cb915d6feb24617a.js": "ba59fa48e275a116eca38f5c11e6525f3b096b95",
-    "/styles.a8b14992a5ef6529f2ab.css": "c1df52a2b87eb3cf621ffa7c9cba6eccdf36d750"
+    "/styles.73fe2ccd13de3f1d4566.css": "3c4762334c8c6359ef39cf033699a790c97a9dd9"
   },
   "navigationUrls": [
     {
