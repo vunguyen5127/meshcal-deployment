@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698972103039,
+  "timestamp": 1699018979843,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,13 +13,13 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b26b342674fa1df3eabf.js",
+        "/main.bb997a5caf34e58ade3a.js",
         "/manifest.json",
         "/polyfills-es5.f8a488b2fdea97c0f95d.js",
         "/polyfills.2bcd508ca8f3afb00f2c.js",
         "/runtime.7b63b9fd40098a2e8207.js",
         "/scripts.a189cb915d6feb24617a.js",
-        "/styles.73fe2ccd13de3f1d4566.css"
+        "/styles.ed4861f365e3e02f72b0.css"
       ],
       "patterns": []
     },
@@ -106,6 +106,7 @@
         "/assets/images/no-profile-photo.png",
         "/assets/images/single_768.svg",
         "/assets/images/site-thumbnail.jpg",
+        "/assets/images/square-meshcal-accent.svg",
         "/assets/images/user_icon.png",
         "/assets/logo.png",
         "/assets/logo1.png",
@@ -116,7 +117,8 @@
         "/assets/wasm/crypto.js",
         "/assets/wasm/crypto.wasm",
         "/meshcal-accent.7b392ba10f61beab7925.png",
-        "/meshcal-accent.ee9fd73d4e5b42b68b5b.svg"
+        "/meshcal-accent.ee9fd73d4e5b42b68b5b.svg",
+        "/square-meshcal-accent.cb078ec440c775369601.svg"
       ],
       "patterns": []
     }
@@ -198,6 +200,7 @@
     "/assets/images/no-profile-photo.png": "683a4b64e1f2a2192e9b8a4b6172b6bd07f2cff5",
     "/assets/images/single_768.svg": "c0205716b80b62118690256686470eecef802bc1",
     "/assets/images/site-thumbnail.jpg": "4ca9015fee79db2920758e9ff8ceceb2dfb976ce",
+    "/assets/images/square-meshcal-accent.svg": "2a2bdc1ad3e09d909aad063be0a433d13f66fe0e",
     "/assets/images/user_icon.png": "c4b7584333fb7d1d8df1da804b96f67d604a7a93",
     "/assets/logo.png": "65ba7c396272c853a045d5a735748aa5f7a790d6",
     "/assets/logo1.png": "4c3f47d87d04d775a3987a2f91ade370333cdbcd",
@@ -208,8 +211,8 @@
     "/assets/wasm/crypto.js": "8560677192a4b130873941cf8030597e15cf0436",
     "/assets/wasm/crypto.wasm": "9e528bafab813a7820ed65d09bc799653544fb3c",
     "/favicon.ico": "2056ee12e711269aebf5f803b215f47916d7b37f",
-    "/index.html": "9d575a92af2db3593ed320595f67800121115079",
-    "/main.b26b342674fa1df3eabf.js": "f4af27bedef0f42912014b84965da96aaca8da27",
+    "/index.html": "53e230836f09cfa9bb5c0e9393087e1ac603ba61",
+    "/main.bb997a5caf34e58ade3a.js": "eb8079692ced2de7a94e464cf672e7dcd288294c",
     "/manifest.json": "53722b6c0572dbb25fb94e69f80555e76c0095e5",
     "/meshcal-accent.7b392ba10f61beab7925.png": "e6c2db01374d4cc11ad84c912387ae8e80aba4f1",
     "/meshcal-accent.ee9fd73d4e5b42b68b5b.svg": "4dbdec87a38536bf4d21b8b6f54bd8cc0ee1b36a",
@@ -217,7 +220,8 @@
     "/polyfills.2bcd508ca8f3afb00f2c.js": "35ee1187af896ad011a82332996b9e6060e9b589",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.a189cb915d6feb24617a.js": "ba59fa48e275a116eca38f5c11e6525f3b096b95",
-    "/styles.73fe2ccd13de3f1d4566.css": "3c4762334c8c6359ef39cf033699a790c97a9dd9"
+    "/square-meshcal-accent.cb078ec440c775369601.svg": "2a2bdc1ad3e09d909aad063be0a433d13f66fe0e",
+    "/styles.ed4861f365e3e02f72b0.css": "9f31f9b2be2f191d9958133b0e6cdfcf89feae34"
   },
   "navigationUrls": [
     {
